@@ -17,8 +17,6 @@ export default [
     settings: {
       react: {
         version: 'detect'
-      } ,react: {
-        version: 'detect'
       }
     },
   },
